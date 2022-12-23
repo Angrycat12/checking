@@ -1,1 +1,3 @@
 netstat
+https://winitpro.ru/index.php/2019/07/10/zablokirovat-sajty-windows-powershell/
+Set-NetFirewallRule
